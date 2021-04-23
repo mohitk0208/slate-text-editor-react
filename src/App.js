@@ -1,10 +1,8 @@
+import React from "react";
+import TextEditor from "./components/TextEditor";
 
 function App() {
-  return (
-    <div className="App">
-
-    </div>
-  );
+	return <TextEditor />;
 }
 
 export default App;
